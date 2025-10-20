@@ -16,7 +16,7 @@
 6. Saved cleaned dataset as Excel & CSV
 
 ## Files Included
-- `Netflix Movies and TV Shows--Cleaned DataSet` — Full cleaned dataset  
+- `Netflix Movies and TV Shows--Cleaned DataSet.xlsx` — Full cleaned dataset  
 - `Netflix Movies and TV Shows.csv` — First 1000 rows sample  
 - `README.md` — Description file  
 
