@@ -21,6 +21,6 @@
 - `README.md` — Description file  
 
 ## Tools Used
-- Google Sheets / Excel (on mobile)  
+- Google Sheets / Excel   
 - Kaggle Dataset  
 - GitHub (for submission)
